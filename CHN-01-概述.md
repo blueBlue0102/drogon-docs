@@ -27,4 +27,4 @@ Drogon的主要应用平台是Linux，也支持Mac OS、FreeBSD和Windows。
 * 支持插件，可通过配置文件在加载期动态拆装；
 * 支持内建插入点的AOP
 
-# 02 [安装drogon](CHN-02-安装)
+# 02 [安装drogon](CHN-02-%E5%AE%89%E8%A3%85.md)

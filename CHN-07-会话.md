@@ -95,4 +95,4 @@ drogon::HttpAppFramework::instance().enableSession(1200);
 
 用cmake重新编译整个工程，运行目标程序webapp，就可以通过浏览器看到效果了。
 
-# [数据库](CHN-08-0-数据库-概述)
+# [数据库](CHN-08-0-%E6%95%B0%E6%8D%AE%E5%BA%93-%E6%A6%82%E8%BF%B0.md)

@@ -52,4 +52,4 @@ METHOD_ADD(User::getInfo,"/{1}/info?token={2}",Get,"LoginFilter");
 
 **注意: 如果过滤器定义在命名空间里，注册过滤器时必须把命名空间写全**
 
-# 06 [视图](CHN-06-视图)
+# 06 [视图](CHN-06-%E8%A7%86%E5%9B%BE.md)

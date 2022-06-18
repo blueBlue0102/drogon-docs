@@ -357,4 +357,4 @@ add_subdirectory(third_party/drogon)
 target_link_libraries(${PROJECT_NAME} PRIVATE drogon)
 ```
 
-# 03 [快速开始](CHN-03-快速开始)
+# 03 [快速开始](CHN-03-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.md)

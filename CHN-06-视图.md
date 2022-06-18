@@ -154,4 +154,4 @@ void enableDynamicViewsLoading(const std::vector<std::string> &libPaths);
 
 **注意: 如果加载时遇到`symbol not found`错误，请使用`cmake .. -DCMAKE_ENABLE_EXPORTS=on`或取消CMakeLists.txt最后一行对`set_property(TARGET ${PROJECT_NAME} PROPERTY ENABLE_EXPORTS ON)`的注释，并重新编译你的工程**
 
-# 07 [会话](CHN-07-会话)
+# 07 [会话](CHN-07-%E4%BC%9A%E8%AF%9D.md)

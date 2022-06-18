@@ -74,4 +74,4 @@ auto *pluginPtr=app().getPlugin<DataDictionary>();
 
 所有插件在run()接口内初始化完毕，在应用程序退出时才销毁，因此，插件的生命周期几乎和应用程序等同，这也是getPlugin()接口不需要返回智能指针的原因。
 
-# 10 [配置文件](CHN-10-配置文件)
+# 10 [配置文件](CHN-10-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)

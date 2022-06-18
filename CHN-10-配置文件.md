@@ -331,4 +331,4 @@ app的子选项，配置由框架发送的所有response的Server头字段，默
 "pipelining_requests": 0
 ```
 
-# 11 [drogon_ctl命令](CHN-11-drogon_ctl命令)
+# 11 [drogon_ctl命令](CHN-11-drogon_ctl%E5%91%BD%E4%BB%A4.md)

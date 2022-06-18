@@ -258,4 +258,4 @@ ADD_METHOD_VIA_REGEX(UserController::handler3,"/(?!data).*",Post); /// Matches a
 **需要注意的是，使用正则表达式要注意匹配冲突（多个不同的handler都匹配），当冲突发生在同一个controller内部时，drogon只会执行第一个handler（先注册进框架的那个handler），当冲突发生在不同controller之间时，执行哪个handler是不确定的，因此用户需要避免这种冲突发生。**
 
 
-# 04.3 [WebSocketController](CHN-04-3-控制器-WebSocketController)
+# 04.3 [WebSocketController](CHN-04-3-%E6%8E%A7%E5%88%B6%E5%99%A8-WebSocketController.md)

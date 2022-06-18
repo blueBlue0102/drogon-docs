@@ -167,4 +167,4 @@ dg_ctl press -n1000000 -t4 -c1000 -q http://localhost:8080/
 dg_ctl press -n 1000000 -t 4 -c 1000 https://www.domain.com/path/to/be/tested
 ```
 
-# 12 [AOP面向切面编程](CHN-12-AOP面向切面编程)
+# 12 [AOP面向切面编程](CHN-12-AOP%E9%9D%A2%E5%90%91%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B.md)
